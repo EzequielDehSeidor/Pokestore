@@ -1,0 +1,2 @@
+# Pokestore
+Proyecto JS
